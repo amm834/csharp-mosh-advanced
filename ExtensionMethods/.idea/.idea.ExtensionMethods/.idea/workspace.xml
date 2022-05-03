@@ -4,17 +4,19 @@
     <projectFile>ExtensionMethods/ExtensionMethods.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29370ca4-da07-4a11-a6ea-d057e1359ac5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExtensionMethods/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExtensionMethods/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExtensionMethods/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExtensionMethods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtensionMethods/StringExtension.cs" afterDir="false" />
-    </list>
+    <list default="true" id="29370ca4-da07-4a11-a6ea-d057e1359ac5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ExtensionMethods/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
@@ -64,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651610539679</updated>
-      <workItem from="1651610541956" duration="1346000" />
+      <workItem from="1651610541956" duration="1382000" />
     </task>
+    <task id="LOCAL-00001" summary="Extension Methods">
+      <created>1651612026307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651612026307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Extension Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extension Methods" />
   </component>
 </project>

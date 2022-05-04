@@ -4,16 +4,14 @@
     <projectFile>NullableTypes/NullableTypes.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d7ac37-5edf-438a-9bde-907d2a8c393a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NullableTypes/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NullableTypes/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NullableTypes/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NullableTypes/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d7d7ac37-5edf-438a-9bde-907d2a8c393a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/NullableTypes/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,8 +58,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651623595855</updated>
-      <workItem from="1651623599896" duration="295000" />
+      <workItem from="1651623599896" duration="439000" />
     </task>
+    <task id="LOCAL-00001" summary="Using nullable type and null collapsing">
+      <created>1651624079248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651624079248</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Using nullable type and null collapsing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using nullable type and null collapsing" />
   </component>
 </project>

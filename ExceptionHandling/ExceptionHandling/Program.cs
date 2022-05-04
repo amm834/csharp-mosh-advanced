@@ -1,15 +1,10 @@
-﻿using ExceptionHandling;
+﻿namespace ExceptionHandling;
 
-StreamReader? reader = null;
-try
+class Program
 {
-    reader = new StreamReader(@"c:\not_found.txt");
-}
-catch (Exception e)
-{
-    Console.WriteLine(e.Message);
-}
-finally
-{
-    reader?.Dispose();
+    public static void Main(string[] args)
+    {
+        var api = new YoutubeWebService();
+        api.FetchApi();
+    }
 }

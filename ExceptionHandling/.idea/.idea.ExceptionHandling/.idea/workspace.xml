@@ -4,12 +4,11 @@
     <projectFile>ExceptionHandling/ExceptionHandling.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20bdedce-4083-4ffc-8875-05e13ecb1b47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandling/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandling/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandling/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandling/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/Calculator.cs" afterDir="false" />
+    <list default="true" id="20bdedce-4083-4ffc-8875-05e13ecb1b47" name="Changes" comment="Exception handling">
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/YoutubeException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/YoutubeWebService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExceptionHandling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandling/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionHandling/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ExceptionHandling/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -69,8 +71,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651625321064</updated>
-      <workItem from="1651625329733" duration="1387000" />
+      <workItem from="1651625329733" duration="2098000" />
     </task>
+    <task id="LOCAL-00001" summary="Exception handling">
+      <created>1651626826772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651626826772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Exception handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception handling" />
   </component>
 </project>

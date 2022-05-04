@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.AssemblyInfo.cs
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.exe
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.deps.json
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.runtimeconfig.json
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.dll
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.pdb
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.dll
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\refint\AsynchronousProgramming.dll
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.pdb
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.genruntimeconfig.cache
+C:\Users\User\RiderProjects\csharp-mosh-advanced\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0\ref\AsynchronousProgramming.dll

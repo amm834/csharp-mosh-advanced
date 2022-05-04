@@ -4,12 +4,7 @@
     <projectFile>ExceptionHandling/ExceptionHandling.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20bdedce-4083-4ffc-8875-05e13ecb1b47" name="Changes" comment="Exception handling">
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/YoutubeException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/YoutubeWebService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExceptionHandling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandling/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExceptionHandling/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="20bdedce-4083-4ffc-8875-05e13ecb1b47" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651625321064</updated>
-      <workItem from="1651625329733" duration="2098000" />
+      <workItem from="1651625329733" duration="2206000" />
     </task>
     <task id="LOCAL-00001" summary="Exception handling">
       <created>1651626826772</created>
@@ -80,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651626826772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exception Handling practically done">
+      <created>1651627549411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651627549411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Exception handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception handling" />
+    <MESSAGE value="Exception Handling practically done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception Handling practically done" />
   </component>
 </project>

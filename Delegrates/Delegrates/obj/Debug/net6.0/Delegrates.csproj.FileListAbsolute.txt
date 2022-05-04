@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\bin\Debug\net6.0\Delegrates.exe
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\bin\Debug\net6.0\Delegrates.deps.json
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\bin\Debug\net6.0\Delegrates.runtimeconfig.json
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\bin\Debug\net6.0\Delegrates.dll
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\bin\Debug\net6.0\Delegrates.pdb
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\Delegrates.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\Delegrates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\Delegrates.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\Delegrates.AssemblyInfo.cs
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\Delegrates.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\Delegrates.dll
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\refint\Delegrates.dll
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\Delegrates.pdb
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\Delegrates.genruntimeconfig.cache
+C:\Users\User\RiderProjects\csharp-mosh-advanced\Delegrates\Delegrates\obj\Debug\net6.0\ref\Delegrates.dll
